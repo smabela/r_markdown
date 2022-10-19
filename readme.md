@@ -10,5 +10,5 @@
 
 ***Bold and Italic***
 
-[Link](www.yahoo.com)
+[Link](http://www.yahoo.com)
 
