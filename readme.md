@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a summary of R markdown tags
+# Headings
 
-- test
-- 
+*Italic*
+
+**Bold**
